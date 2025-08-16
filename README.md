@@ -1,6 +1,6 @@
 # Java
 
-## ☕ Introduction to Java
+##  Introduction to Java
 
 Java is one of the most widely used programming languages in the world.  
 It’s known for its **simplicity, reliability, and platform independence**.  
