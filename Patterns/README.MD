@@ -3,7 +3,7 @@
 This repository contains Java programs for printing different star patterns.
 
 ## 📂 Patterns
-- [4x5 Rectangle Pattern](patterns/4x5pattern.java)
+- [4x5 Rectangle Pattern](https://static.takeuforward.org/wp/uploads/2022/08/P1.png)
 
 ### 📌 4x5 Rectangle Pattern Code
 ```java
