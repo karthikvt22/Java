@@ -1,4 +1,5 @@
-public static void print6(int n){
+public class Main{
+public static void print(String[] args){
         int start =1; 
         for (int i=0;i<=n;i++){
             
@@ -13,3 +14,4 @@ public static void print6(int n){
 
         }
     }
+}
