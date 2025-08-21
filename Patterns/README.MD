@@ -5,7 +5,7 @@ It’s a great way to practice **nested loops**, **logic building**, and **probl
 
 ---
 
-## ✨ Preview (GIF)
+##  Preview (GIF)
 Here’s a quick look at some patterns in action:
 
 ![Patterns Demo](https://i.imgur.com/4NZ6uLY.gif)
@@ -14,7 +14,7 @@ Here’s a quick look at some patterns in action:
 
 ## 📂 Patterns
 
-### 🔹 Basic Patterns
+###  Basic Patterns
 - ![Rectangle](https://static.takeuforward.org/wp/uploads/2022/08/P1.png)  
   **[4x5 Rectangle Pattern](https://static.takeuforward.org/wp/uploads/2022/08/P1.png)** || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/4x5%20Pattern)
 
@@ -29,7 +29,7 @@ Here’s a quick look at some patterns in action:
 
 ---
 
-### 🔹 Advanced Patterns
+###  Advanced Patterns
 - ![Symmetric Pyramid](https://static.takeuforward.org/wp/uploads/2022/08/P12.png)  
   **[Symmetric Number Pyramid](https://static.takeuforward.org/wp/uploads/2022/08/P12.png)** || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Symmetric%20number%20pyramid)
 
@@ -44,7 +44,7 @@ Here’s a quick look at some patterns in action:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repo:
    ```bash
    git clone https://github.com/karthikvt22/Java.git
