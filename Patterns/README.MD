@@ -15,6 +15,8 @@ This repository contains Java programs for printing different star patterns.
 
 - [Binary Right angle triangle pattern](https://static.takeuforward.org/wp/uploads/2022/08/P11.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Binary%20Right%20angle%20triangle%20pattern)
 
+- [Inverse Right Angled Triangle](https://static.takeuforward.org/wp/uploads/2022/08/P8.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Binary%20Right%20angle%20triangle%20pattern)
+
 
 
 
