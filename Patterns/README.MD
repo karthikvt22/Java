@@ -11,6 +11,9 @@ This repository contains Java programs for printing different star patterns.
 
 - [Repeated number triangle pattern](https://static.takeuforward.org/wp/uploads/2022/08/P4.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Numered%20Right%20Angled%20Tri)
 
+- [Symmetric number pyramid](https://static.takeuforward.org/wp/uploads/2022/08/P12.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Symmetric%20number%20pyramid)
+
+
 
 
 
