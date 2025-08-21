@@ -13,7 +13,7 @@ This repository contains Java programs for printing different star patterns.
 
 - [Symmetric number pyramid](https://static.takeuforward.org/wp/uploads/2022/08/P12.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Symmetric%20number%20pyramid)
 
-- [Binary Right angle triangle pattern](https://static.takeuforward.org/wp/uploads/2022/08/P12.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Binary%20Right%20angle%20triangle%20pattern)
+- [Binary Right angle triangle pattern](https://static.takeuforward.org/wp/uploads/2022/08/P11.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Binary%20Right%20angle%20triangle%20pattern)
 
 
 
