@@ -17,6 +17,6 @@ This repository contains Java programs for printing different star patterns.
 
 - [Inverse Right Angled Triangle](https://static.takeuforward.org/wp/uploads/2022/08/P5.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Inverse%20Right%20Angled%20Triangle)
 
-- [Pyramid Pattern](https://static.takeuforward.org/wp/uploads/2022/08/P8.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Inverse%20Right%20Angled%20Triangle)
+- [Pyramid Pattern](https://static.takeuforward.org/wp/uploads/2022/08/P8.png) || [Solution](https://github.com/karthikvt22/Java/blob/main/Patterns/Pyramid%20Pattern)
 
 
