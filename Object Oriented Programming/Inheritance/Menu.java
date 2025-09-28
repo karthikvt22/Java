@@ -1,5 +1,4 @@
-
-package packages.revision.clasobj;
+//package packages.revision.clasobj;
 
 // class is a template which consist of prpperties and methods 
 // below program is an example of food menu class 
