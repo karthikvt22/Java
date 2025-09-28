@@ -1,4 +1,4 @@
-package packages.revision.clasobj;
+//package packages.revision.clasobj;
 
 public class Menu1 extends Menu{
     String addon ;
