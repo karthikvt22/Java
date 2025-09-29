@@ -33,3 +33,52 @@ This is a simple Java console-based Food Ordering System showcasing foundational
 
 ## Usage Example
 
+---
+
+## How to Run
+
+1. **Clone the repository:**
+git clone https://github.com/your-username/food-ordering-java.git
+
+text
+
+2. **Navigate to the project directory:**
+cd food-ordering-java
+
+text
+
+3. **Compile:**
+javac Main.java
+
+text
+
+4. **Run:**
+java Main
+
+text
+
+---
+
+## Concepts Used
+
+- Classes, objects, and constructor overloading.
+- Static vs instance fields.
+- Switch-case structure.
+- User input using Scanner.
+- Copy constructor for reordering orders.
+
+---
+
+## Future Improvements
+
+- Store order history in a file or database.
+- Add user authentication for personalized experience.
+- Enhance UI with graphics (Swing or JavaFX).
+- Online payment simulation.
+
+---
+
+## License
+
+Released as an educational resource. Free to use and modify.
+
