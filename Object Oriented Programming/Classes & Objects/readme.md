@@ -40,22 +40,14 @@ This is a simple Java console-based Food Ordering System showcasing foundational
 1. **Clone the repository:**
 git clone https://github.com/your-username/food-ordering-java.git
 
-text
-
 2. **Navigate to the project directory:**
 cd food-ordering-java
-
-text
 
 3. **Compile:**
 javac Main.java
 
-text
-
 4. **Run:**
 java Main
-
-text
 
 ---
 
