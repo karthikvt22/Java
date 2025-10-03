@@ -10,24 +10,24 @@ public class Main {
         arr[3] = 4;
         arr[4] = 5;
         System.out.println(Arrays.toString(arr));
-//        for (int i =0; i<5;i++){
-//            arr[i] = i;
-//        }
-        //System.out.println(Arrays.toString(arr));
-        // arrays Strings;
-//        String[] str = new String[5];
-//        str[0]= "vt";
-//        str[1] ="ka";
-//        str[2] = "rt";
-//        str[3] = "hi";
-//        str[4] = "k";
-//        System.out.println(Arrays.toString(str));
-        //fill2d();
-        //twoarray();
-       // passing(arr);
-        //fill2dscan();
+        for (int i =0; i<5;i++){
+            arr[i] = i;
+        }
+        System.out.println(Arrays.toString(arr));
+         arrays Strings;
+      String[] str = new String[5];
+       str[0]= "vt";
+       str[1] ="ka";
+        str[2] = "rt";
+       str[3] = "hi";
+        str[4] = "k";
+        System.out.println(Arrays.toString(str));
+        fill2d();
+        twoarray();
+        passing(arr);
+        fill2dscan();
         arraylist();
-        //System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     }
 
     //passing in functions
